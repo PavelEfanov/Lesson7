@@ -25,3 +25,4 @@ public class Plate {
         return appetite < food;
     }
 }
+//DONE
